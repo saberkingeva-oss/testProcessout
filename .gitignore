@@ -5,4 +5,9 @@ obj/
 *.suo
 *.user
 *.userosscache
+*.cache
+*.log
 *.sln.docstates
+
+# Windows
+Thumbs.db
