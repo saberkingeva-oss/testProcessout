@@ -1,0 +1,10 @@
+D:\XM\进程一键结束\进程一键结束\bin\Debug\silverN.ico
+D:\XM\进程一键结束\进程一键结束\bin\Debug\进程一键结束.exe.config
+D:\XM\进程一键结束\进程一键结束\bin\Debug\进程一键结束.exe
+D:\XM\进程一键结束\进程一键结束\bin\Debug\进程一键结束.pdb
+D:\XM\进程一键结束\进程一键结束\obj\Debug\进程一键结束.csproj.AssemblyReference.cache
+D:\XM\进程一键结束\进程一键结束\obj\Debug\进程一键结束.Properties.Resources.resources
+D:\XM\进程一键结束\进程一键结束\obj\Debug\进程一键结束.csproj.GenerateResource.cache
+D:\XM\进程一键结束\进程一键结束\obj\Debug\进程一键结束.csproj.CoreCompileInputs.cache
+D:\XM\进程一键结束\进程一键结束\obj\Debug\进程一键结束.exe
+D:\XM\进程一键结束\进程一键结束\obj\Debug\进程一键结束.pdb
